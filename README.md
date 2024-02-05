@@ -34,7 +34,9 @@ The baseline model, being a simplistic solution, aids in discerning whether the 
 
 ## Chapter 5: Model Validation 🧪
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur risus eget lectus scelerisque, in volutpat tortor aliquet. Curabitur vel augue in felis fringilla facilisis. Aenean lacinia purus vel quam vestibulum tincidunt.
+Utilizing appropriate validation metrics for Machine Learning models is crucial in a project. The value of these metrics reflects the quality of a model; therefore, if poorly chosen, it may be impossible to assess whether the model meets the necessary requirements. The evaluation of a classification model is based on comparing the classes predicted by the model with the true classes of each example. All metrics aim to measure how far the model is from a perfect classification, but they do so in different ways. A simple way to visualize the performance of a model is through the confusion matrix, as shown in the figure. Applied to the challenge at hand: TP (true positive): the model correctly predicts a popular song; TN (true negative): the model correctly predicts a non-popular song; FN (false negative): the model predicts a song as popular, but it's not; FP (false positive): the model predicts a song as non-popular, but it is popular.
+
+In addition to this metric, others can be used, such as Accuracy, which shows how many classifications the model got right among all; Precision, indicating how many of the model's Popular class classifications are correct; Recall, showing how many of the expected Popular class situations are correct; and F1-score, the harmonic mean between precision and recall. The choice of metric depends on the project's goal and the dataset characteristics. If the aim is to minimize false positives, precision will be the most important metric. If the goal is to minimize false negatives, recall will be the most important metric.
 
 ## Chapter 6: Resample the data and fit the selected model 🔄🤖
 
