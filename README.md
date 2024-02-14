@@ -82,7 +82,7 @@ Various guidelines, including those in Martin Zinkevich's article "Rules of Mach
 
 [ˆ7]: [sklearn.metrics.accuracy_score - scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html?utm_campaign=%5Bb2c%5D%207DoC%20Machine%20Learning%201ª&utm_medium=email&_hsmi=270747828&_hsenc=p2ANqtz--_AC7B5jCLut36SXOAwGmtKGUuKKIytuvPLpeMXMxYDeDLcUFXM_aWEC1iiUZaRlTQxYLUdiewl2-FYZKBdYIN9k4_4w&utm_content=270747828&utm_source=hs_automation)
 
-[ˆ8]: [sklearn.metrics.precision_score - scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html?utm_campaign=%5Bb2c%5D%207DoC%20Machine%20Learning%201ª&utm_medium=email&_hsmi=270747828&_hsenc=p2ANqtz-9ePYxEwGbuCdwazUvzoAA0YBCdIkBrZX0qkUbBu_jB7QUd9eY3USvQvzvPFZkX2eFWUBiSlNYotF3MjsuW-f3oyMIBYQ&utm_content=270747828&utm_source=hs_automation
+[ˆ8]: [sklearn.metrics.precision_score - scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html?utm_campaign=%5Bb2c%5D%207DoC%20Machine%20Learning%201ª&utm_medium=email&_hsmi=270747828&_hsenc=p2ANqtz-9ePYxEwGbuCdwazUvzoAA0YBCdIkBrZX0qkUbBu_jB7QUd9eY3USvQvzvPFZkX2eFWUBiSlNYotF3MjsuW-f3oyMIBYQ&utm_content=270747828&utm_source=hs_automation)
 
 [ˆ9]: [sklearn.metrics.recall_score - scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html?utm_campaign=%5Bb2c%5D%207DoC%20Machine%20Learning%201ª&utm_medium=email&_hsmi=270747828&_hsenc=p2ANqtz-9hqsVt6aAejuMbUK1UlawM_9_IXIdWJDxYhM7pM5aWWRm9NBR_OBuCU-F7RApX7KTyWJmEdA_9nFD2fYHRg0-TeetkdA&utm_content=270747828&utm_source=hs_automation)
 
